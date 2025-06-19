@@ -2,6 +2,63 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## RSAA25
+
+### Workshop
+
+#### Title
+Metavaluation: A Participatory Experiment in Valuing Diverse Contributions to RSAA
+
+#### Abstract
+This workshop introduces Metavaluation, a participatory framework for assessing and rewarding the relative value of diverse ideas, activities, and resources contributed to any community. Originally developed to support the open science movement, Metavaluation generates transparent, interoperable metrics aligned with community values—supporting fair recognition, meaningful engagement, and decentralised coordination toward shared goals.
+
+Together, we’ll use RSAA25 as a living case study. Participants will nominate real contributions to the conference—such as workshops, talks, mentoring, and behind-the-scenes efforts—then assess their value through a simple, inclusive peer-review process using an open-source platform developed by Open Heart + Mind (OHM), a nonprofit citizen science community. This will generate a shared value map: a live visualisation of what the RSAA community values most, offering feedback that can inform future events, governance, and collaboration within and beyond the conference.
+
+The resulting data will be presented during a 15-minute talk the following day, showcasing the framework’s potential for rapid iteration and dynamic evolution. We’ll close the workshop with shared reflections and a discussion on how this approach could empower software communities to better recognise, coordinate, and sustain their most meaningful work.
+
+#### Length
+90-120 minutes (afternoon if possible)
+
+#### Takeaways
+Participants will leave with:
+- An understanding of how existing recognition systems fall short, and how Metavaluation addresses them
+- Hands-on experience with a transparent, inclusive peer-review process
+- A dataset representing RSAA contributions and community values
+- Tools and skills to implement Metavaluation in their own projects and communities
+- Recognition within the Metavaluation system for their own contributions to the workshop
+
+#### Bio
+Dr. Cooper Smout is a designer, neuroscientist, and open science entrepreneur working at the intersection of collective intelligence, participatory governance, and cultural change. With a background in architecture and a PhD in the neuroscience of consciousness, he left academia to found Free Our Knowledge, a collective action platform for open research, and Open Heart + Mind (OHM), a nonprofit organisation developing open-source tools to empower communities. His current work focuses on Metavaluation, a participatory evaluation framework that generates transparent, interoperable value metrics to support fair recognition and reward, decentralised coordination, and collective governance across research and commons-oriented ecosystems.
+
+#### Links
+https://openheartmind.org
+https://github.com/openheartmind/cOHMunity
+https://coopersmout.github.io
+
+### 15-minute Presentation
+
+#### Title
+Metavaluation: A Participatory Framework for Recognising, Rewarding, and Coordinating What Matters
+
+#### Abstract
+This presentation introduces Metavaluation, a participatory framework for assessing the relative value of diverse contributions—including ideas, activities, and resources—within any community. Developed to support the Open Science movement, Metavaluation generates transparent, multidimensional value metrics that empower communities to recognise what matters, reward meaningful participation, and coordinate action and resources toward their shared goals.
+
+The key innovation of Metavaluation is its treatment of peer evaluations as valuable contributions in their own right—anchoring all other valuations to these as a ‘base unit’ of value. This creates a dynamic feedback loop that rewards participation while generating interoperable valuations for any given set of contributions. By closing the loop between evaluation, collaboration, and decision-making, Metavaluation lays the groundwork for scalable, inclusive, and transparent research ecosystems.
+
+We’ll share insights from real-world prototypes spanning science, technology, and the arts, highlighting the framework’s potential to support collaboration across diverse sectors and use cases. We’ll introduce an open-source platform developed by Open Heart + Mind (OHM)—a nonprofit citizen science community—and present data showing how diverse projects can be weighted toward a common mission, empowering positive-sum contributors and enabling global coordination. 
+
+Finally, we’ll present a new dataset created the previous day during a live workshop at RSAA25, where attendees used Metavaluation to nominate and assess contributions to the conference itself. We’ll share learnings from this experiment and explore its relevance to research software communities. To close, we’ll invite all participants to continue the process—nominating overlooked contributions and evaluating their quality—contributing to a living dataset that can inform ongoing reflection, planning, and coordination within RSAA and beyond.
+
+#### Takeaways
+Participants will leave with:
+- A clear understanding of how current recognition systems fall short, and how Metavaluation addresses these limitations
+- Insights from real-world applications of Metavaluation across science, technology, and the arts
+- An introduction to the RSAA community’s live “value map” and what it reveals about shared priorities
+- An open invitation to continue the participatory experiment—valuing diverse contributions to RSAA and beyond
+
+
+
+
 ## Mushroom Valley
 #### Title
 Valuing What Matters: Free Tools to Celebrate, Support, and Align Community Efforts
