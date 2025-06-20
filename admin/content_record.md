@@ -2,6 +2,33 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+
+## Heart Space @Simplifyre (Modifyre)
+
+#### Title
+Valuing What Matters: A Gratitude Mapping Ritual
+
+#### Description
+From kitchen crews to camp builders, quiet acts of kindness to epic performances — every contribution weaves the tapestry of Modifyre. In this interactive group ritual, we’ll slow down together and reflect on what truly matters.
+
+We’ll begin by sharing stories of the people, moments, and offerings that made Modifyre magical. Then we’ll introduce a novel participatory voting protocol designed to help communities recognise the impact of contributions and inspire engagement — uplifting unsung heroes and distributing responsibility across the collective. Finally, using a free, open-source app built by the Open Heart + Mind community, we’ll put these ideas into practice and co-create a living “gratitude map” of the Modifyre experience — offering real-time reflection and community-driven insights to support future planning and coordination.
+
+This is a space to honour the unseen, uplift one another, and celebrate the web of care that holds Modifyre together.
+
+What to Bring
+• A phone (optional, to contribute to the digital map)
+• A moment of magic or gratitude you’d like to share
+• Your whole-hearted self
+
+#### Duration of act
+90 mins. This would be best scheduled later in the weekend, so that we have more offerings and moments to reflect on
+
+#### Technical requirements 
+Participants will need internet for the app to work, so please let me know if the site has mobile reception -- if not, I should be able to setup a Starlink connection.
+
+
+
+
 ## RSAA25
 
 ### Workshop
