@@ -86,6 +86,9 @@ Participants will leave with:
 
 
 
+
+
+
 ## Mushroom Valley
 #### Title
 Valuing What Matters: Free Tools to Celebrate, Support, and Align Community Efforts
@@ -373,8 +376,37 @@ Dr. Cooper Smout is a neuroscientist, designer, and open science advocate workin
 
 
 
+## OHBM OSR
+### Title
 
-## OHBM OS-SIG
+Metavaluation: Kickstarting a Virtuous Cycle in Open Science
+
+### Host and Affiliation
+
+Cooper Smout
+(1) Open Heart + Mind (OHM)
+(2) Institute for Globally Distributed Open Research and Education (IGDORE)
+
+### Contact Details
+
+cooper@openheartmind.org
+
+### Short description and the goals for the session
+
+Metavaluation is a participatory evaluation framework designed to connect and empower open science communities by realigning incentives from the ground up. It uses a simple and accessible mechanism to collect peer assessments of diverse contributions—such as ideas, activities, and resources—and aggregates them into transparent, multidimensional community valuations that support recognition, reward, and coordination. Crucially, Metavaluation enables the self-referential recognition of core system functions—such as peer evaluation and platform improvement—aligning incentives across diverse stakeholders and laying the groundwork for a virtuous cycle of systemic change.
+
+In this session, we’ll demonstrate the framework through a live participatory workshop focused on recognising contributions to the Open Science Room itself. Participants will:
+- Nominate contributions to the OSR—such as talks, workshops, and behind-the-scenes efforts
+- Use the Metavaluation prototype to evaluate these contributions in real time
+- Reflect on the results and discuss how Metavaluation could support culture change in neuroimaging and beyond
+
+Panelists will include OSR contributors who have agreed to their work being openly evaluated during the session. All participants will be invited to continue engaging with the platform afterward—helping seed an ongoing, community-led culture of gratitude, reflection, and coordination.
+
+### Useful links
+
+Website: https://openheartmind.org/
+Github: https://github.com/openheartmind/cOHMunity
+Blog: https://coopersmout.substack.com/
 
 ### Short Bio
 Dr. Cooper Smout is a neuroscientist, designer, and open science entrepreneur focused on building participatory systems for recognition, reward, and governance. He founded Free Our Knowledge, a collective action platform for academic reform, and Open Heart + Mind (OHM), a charitable organization developing open-source tools to recognise and reward diverse community contributions. His current work centers on Metavaluation, a novel incentive mechanism designed to address the collective action problem in academia and generalised to empower and connect communities across the environment, arts, and knowledge commons.
