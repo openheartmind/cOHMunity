@@ -393,7 +393,7 @@ cooper@openheartmind.org
 
 ### Short description and the goals for the session
 
-Metavaluation is a participatory evaluation framework designed to connect and empower open science communities by realigning incentives from the ground up. It uses a simple and accessible mechanism to collect peer assessments of diverse contributions—such as ideas, activities, and resources—and aggregates them into transparent, multidimensional community valuations that support recognition, reward, and coordination. Crucially, Metavaluation enables the self-referential recognition of core system functions—such as peer evaluation and platform improvement—aligning incentives across diverse stakeholders and laying the groundwork for a virtuous cycle of systemic change.
+Metavaluation is a participatory evaluation framework designed to connect and empower open science communities by realigning incentives from the ground up. It uses a simple, fast, and accessible mechanism to collect peer assessments of diverse contributions—such as ideas, activities, and resources—and aggregates them into transparent, multidimensional metrics that communities can use for fair recognition, reward, and coordination. Crucially, Metavaluation enables the self-referential recognition of core system functions—such as peer evaluation and platform improvement—aligning incentives across diverse stakeholders and laying the groundwork for a virtuous cycle of systemic change.
 
 In this session, we’ll demonstrate the framework through a live participatory workshop focused on recognising contributions to the Open Science Room itself. Participants will:
 - Nominate contributions to the OSR—such as talks, workshops, and behind-the-scenes efforts
