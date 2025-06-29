@@ -3,6 +3,40 @@ Use this document to collect formal written content, such as conference proposal
 
 
 
+## NENA
+
+### Bio
+Dr Cooper Smout is a designer, researcher, and social entrepreneur working at the intersection of collective governance, regenerative collaboration, and post-market economics. He founded Open Heart + Mind (OHM), a DGR-registered charity, where he leads Metavaluation—an inclusive, participatory framework that empowers diverse communities to recognise collective gratitude for contributions, enabling coordination toward the common good.
+
+### TALK
+
+#### Title
+Valuing What Matters: A Participatory Framework for Collective Recognition and Coordination
+
+#### Abstract (200 words)
+Metavaluation is a participatory framework designed to address a persistent challenge in commons-based and community-led projects: the lack of fair, inclusive, and interoperable systems for recognising and rewarding diverse contributions. Originally developed in the open science space, it has since evolved into a simple yet highly flexible mechanism that can be adapted to virtually any community or context.
+
+The framework enables communities to evaluate the relative value of ideas, activities, and resources through a simple and accessible peer-evaluation process. These evaluations are aggregated into transparent, multidimensional metrics that support fair recognition, informed decision-making, and coordination across aligned groups. Crucially, the framework also recognises the evaluators themselves—creating a self-sustaining feedback loop that aligns incentives and supports long-term engagement.
+
+In this presentation, we’ll share prototype data from diverse contexts—including academic conferences, arts festivals, and grassroots projects—showing how Metavaluation allowed each community to define its own dimensions, recognise a broad range of contributions, and coordinate with communities who share common values and objectives. We’ll then share early data collected through our newly released open-source app and invite participants to explore the system firsthand in a follow-up workshop, where they can create their own instance and join a growing network of collaborative, values-driven communities.
+
+### WORKSHOP
+
+#### Title
+Valuing What Matters: A Hands-On Workshop in Collective Recognition and Coordination
+
+#### Abstract
+How can we fairly recognise the diverse contributions that sustain our communities—especially the invisible, relational, and care-based work markets often overlook? This workshop introduces Metavaluation, a participatory framework that helps communities assess the relative value of ideas, activities, and resources through a simple, transparent, and inclusive peer-review process.
+
+Together, we’ll gain hands-on experience using the NENA Conference as a living case study. Participants will nominate real contributions—such as workshops, talks, and behind-the-scenes efforts—and evaluate them using a free, open-source platform developed by the Open Heart & Mind (OHM) community. They’ll also perform metavaluations—assessing the value of evaluations themselves relative to other contributions. These inputs will be aggregated in real time, generating a live visualisation of what the NENA community values most.
+
+We’ll reflect on the results and highlight how the framework enables valuation of practically any contribution—including evaluations and system improvements—in standardised, interoperable units that incentivise engagement and foster a virtuous cycle of reciprocity, care, and cross-community coordination. 
+
+We’ll conclude with group reflections and a discussion of how Metavaluation could be applied in participants’ own contexts. Finally, attendees will be invited to continue growing the NENA value map or create new instances—seeding shared infrastructure for values-led collaboration across the network.
+
+
+
+
 ## Heart Space @Simplifyre (Modifyre)
 
 #### Title
