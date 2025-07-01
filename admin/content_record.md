@@ -2,6 +2,14 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## Navigation Fund Open Science program
+
+#### Please describe your idea and why you would be a good fit for our Open Science funding program.
+We’re developing Metavaluation: an open-source, community-powered framework for assessing the fair, collective value of any contribution — including ideas, activities, and resources — through a simple and inclusive peer-evaluation process. Participants nominate real contributions — including often-overlooked work like peer review, mentoring, or data curation — and vote between pairs of items based on shared criteria such as the community’s mission or Open Science principles. The key innovation is applying this same mechanism to evaluations themselves (hence, “metavaluation”), treating them as first-class contributions, incentivizing engagement, and fostering a participatory culture of fair recognition for the full range of community contributions. All outputs are expressed in standardized units, where each unit reflects the relative value of a single comparison — enabling transparent recognition, reward, and coordination across communities that adopt the framework.
+
+We’ve prototyped and validated Metavaluation across academic conferences, grassroots gatherings, and DAO-like organizations, and are now finalizing our MVP: a free, open-source platform that enables any community to run metavaluation experiments and coordinate at scale. We’re seeking support to retrospectively reward contributors and to pilot the model with partner organizations. Financial contributions are also recognized, creating a virtuous cycle of collaborative value creation. While we’re not yet implementing AI, we plan to train models on this structured, values-aligned data — laying the groundwork for AI agents that help communities pursue their missions while upholding shared values. Given this roadmap, we’d welcome your advice: should we apply through your AI for Open Science RFP, or your core Open Science strategy?
+
+
 
 ## NENA
 
