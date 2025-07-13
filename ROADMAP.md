@@ -9,8 +9,8 @@ A series of monthly meetings exploring new themes and use cases for the WisdOHM 
 | 1 | 28/04  | Seed    | Values, Introductions & “A Coming OHM Story”              | Prioritising core values               | Value Map, Governance documents | 
 | 2 | 28/05  | Root    | Participatory Democracy, Jonathan Sri  | Electing representatives (cOHMittee)   | Charity board, Role descriptions  | AIMOS draft | 
 | 3 | 25/06  | Shoot   | Do-ocracy (+AGM), "Celebrating past contributors" (Coops) | Recognising core contributors | **WisdOHM MVP release & alpha testing** | 
-| 4 | 25/07  | Trunk   | Leadership, Role offering spotlights (e.g., comms)    | Electing people into lead roles       | Project rankings & invites | COC Beijing? | 
-| 5 | 23/08  | Branch  | Grantmaking, Project offering spotlights (e.g., theme camps)   | Selecting & funding projects  | Offering valuations & invites  | High-valley Dawn visit? | 
+| 4 | 23/07  | Trunk   | Leadership, Role offering spotlights (e.g., comms)    | Electing people into lead roles       | Project rankings & invites | COC Beijing? | 
+| 5 | 27/08  | Branch  | Grantmaking, Project offering spotlights (e.g., theme camps)   | Selecting & funding projects  | Offering valuations & invites  | High-valley Dawn visit? | 
 | 6 | 22/09  | Leaf    | Gifting, Creative offering spotlights (e.g., art, workshops)     | Selecting & inviting participants  | cOHMunity offerings | Offering valuations & invites  | Int. Data Week Brisbane | 
 | 7 | 21/10  | Bloom   | Service/Patronage? Offering spotlights (e.g., service, donations) | Selecting & inviting participants | Offering valuations & invites | 
 | 8 | 20/11  | Fruit   | Coordination, **"OHM Gathering: 5-7 Dec"**             | Recording contributions              | **OHM Gathering: 5-7 Dec**  | 
