@@ -2,6 +2,46 @@
 Use this document to collect formal written content, such as conference proposals, website text, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## Gambling Community Benefit Fund
+
+### What does your organisation do? (1000 characters max)
+Open Heart + Mind (OHM) is a DGR-registered charity that supports community-led initiatives across Queensland through gatherings, workshops, and open-source digital tools. Originally established in 1979 as the Children’s Activity Groups Association, the organisation has a long history of fostering culture, connection, and environmental care. In 2022, we rebranded as OHM and began developing Wisdom—a free, open-source platform that enables communities to recognise and reward diverse contributions through participatory evaluation. Wisdom supports transparent decision-making, equitable resource sharing, and scalable coordination across aligned communities. Our gatherings and workshops serve both to engage the public and to prototype the system in real-world contexts, empowering diverse communities to collaborate, self-organise, and build long-term resilience.
+
+### Requested Items from fund
+9 x 12m Stretch Tent $13,695.00
+3x iPads $1797
+Solar Trailer $35,355.00
+
+### Are you providing in-kind support to this application? (1000 characters max)
+Yes. We are providing significant in-kind support through our network of dedicated volunteers—including event planners, artists, developers, and facilitators—who contribute their time, skills, and resources to deliver our programs. These individuals organise and run gatherings, teach participants to use the Wisdom platform, collect feedback, and adapt the system based on local needs.
+
+Our crew also supplies essential tools like lighting, speakers, audio gear, instruments, art supplies, and Starlink—making it easy for participants to share their talents and collaborate. We also operate a Toyota Coaster bus purchased to support the project, creating a complete mobile gathering space. Our gift-based culture ensures the funded equipment will be well integrated, maintained, and widely used.
+
+However, the core infrastructure we are requesting includes bulky, high-cost items that are difficult to source and have posed logistical challenges at past events. 
+
+### How will the application benefit your organisation and the community? * (2000 characters max)
+This grant will significantly improve our capacity to deliver inclusive, community-led events across Queensland. The requested infrastructure will enable us to host outdoor gatherings and workshops in remote, regional, and disaster-affected areas where access to facilities or electricity is limited.
+
+Over the past three years, we’ve focused on developing Wisdom: a free, open-source platform that helps communities recognise and reward all forms of contribution—such as volunteering, creative input, or caregiving. The model was prototyped at community arts gatherings, science conferences, and grassroots projects, and is now ready for wider deployment through our recently released app. This grant enables a critical shift from research and development into delivery, helping us reach more communities across the state.
+
+The infrastructure will be used at our upcoming OHM Gathering—a flagship event that brings together hundreds of community members and organisations to co-create and showcase the Wisdom system. From there, it will support co-hosted gatherings and workshops with partner communities across Queensland, creating space for creativity, learning, and collective coordination. The stretch tent will provide a weather-resistant, mobile venue that fosters safety, inclusivity, and belonging. The solar trailer will enable off-grid operations using sustainable power, and the iPads will support real-time interaction with the Wisdom app—allowing participants to recognise and reward contributions fairly and transparently.
+
+Through these gatherings and workshops, participants will learn how to apply the system in their own communities, building essential skills for resilience, equity, and collaboration. By strengthening our operational base, this grant positions us to deliver lasting impact through regional partnerships, shared learning, and systems for fairer resource distribution.
+
+### Will this application provide benefit to more than one not-for-profit organisation, if successful? * Please outline * (1000 characters max)
+Our upcoming OHM Gathering is a showcase event that brings together community members and partner organisations to learn, connect, and collaborate. Several not-for-profit groups we’ve engaged with—including Indigenous and disaster-affected communities—will be represented at this year’s event. Local leaders will be introduced to the Wisdom platform and supported to apply it to their own contexts, enabling fair recognition and coordination across communities.
+
+
+Following the Gathering, the requested infrastructure will support a statewide tour throughout 2026, co-hosting gatherings and workshops with regional organisations. This tour builds on our 2022 pilot from Natural Bridge to Far North Queensland, where we validated strong interest in the model. As an open-source, flexible, and mission-aligned system, Wisdom can be freely adapted to local contexts—enabling partner communities to become active nodes in a growing, values-aligned network across Queensland.
+
+### Will this application provide an opportunity for your organisation to generate income if successful? * Please outline * (1000 characters max)
+This infrastructure will support income generation through public gatherings, workshops, and collaborative events. At each event, participants use Wisdom to recognise all forms of contribution—including financial support—ensuring donations and fees are distributed fairly based on the value created. This incentivises giving while maintaining equity, as participation remains open to those contributing in non-monetary ways.
+
+
+We’ve successfully prototyped this model at past gatherings, and with the launch of our app, we will now scale it to include the full ecosystem of contributions—including the infrastructure itself, which will earn recognition for GCBF and generate income for OHM at each event. These gatherings will also produce valuable data to refine the system and support future grant applications. While the app will remain free for communities and nonprofits, we may explore a dual-licensing model for for-profit users, supporting long-term sustainability and shared value creation.
+
+
+
 ## Navigation Fund Open Science program
 
 #### Please describe your idea and why you would be a good fit for our Open Science funding program.
