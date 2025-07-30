@@ -1,16 +1,16 @@
-# TERMS AND CONDITIONS FOR USING WISDOHM (APP AND PROTOTYPES)
+# TERMS AND CONDITIONS FOR USING THE WISDOM PLATFORM
 
 Last Updated: April 24, 2025
 
 ## **1\. INTRODUCTION**
 
-"WisdOHM" helps communities determine the relative value of diverse contributions and reward contributors, while incentivising engagement, fostering fairness and coordination between aligned individuals and collectives. WisdOHM includes both the main application as well as any associated prototype tools, including spreadsheets and other data collection instruments.
+"Wisdom" helps communities determine the relative value of diverse contributions and reward contributors, while incentivising engagement, fostering fairness and coordination between aligned individuals and collectives. Wisdom includes both the main application as well as any associated prototype tools, including spreadsheets and other data collection instruments.
 
-WisdOHM is developed by the Open Heart Mind ("OHM") community. OHM and WisdOHM are legally administered by the Children's Activity Groups Association Inc. (CAGA), a DGR-registered charity in Australia (ABN: 38312613642). By agreeing to these Terms, you are entering into a legally binding agreement with CAGA as the current legal steward of the OHM and WisdOHM projects.
+Wisdom is developed by the Open Heart + Mind ("OHM") community. OHM and Wisdom are legally administered by the Children's Activity Groups Association Inc. (CAGA), a DGR-registered charity in Australia (ABN: 38312613642). By agreeing to these Terms, you are entering into a legally binding agreement with CAGA as the current legal steward of the OHM and Wisdom projects.
 
 ## **2\. ACCEPTANCE OF TERMS**
 
-By accessing or using the WisdOHM platform, associated spreadsheet prototypes, or any related tools (collectively, the "Service"), you agree to be bound by these Terms and Conditions ("Terms"). If you disagree with any part of the Terms, you may not access the Service.
+By accessing or using the Wisdom platform, associated spreadsheet prototypes, or any related tools (collectively, the "Service"), you agree to be bound by these Terms and Conditions ("Terms"). If you disagree with any part of the Terms, you may not access the Service.
 
 ## **3\. PARTICIPATION AND INTELLECTUAL PROPERTY**
 
