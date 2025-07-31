@@ -2,9 +2,9 @@
 *A shared commitment to fairness, care, and collective contribution*
 
 ## 1. Welcome
-Open Heart + Mind (OHM) is a community of researchers, artists, developers, and community leaders exploring new ways of living, working, and relating together. By participating in the OHM community ("cOHMunity") or using the WisdOHM app, you are joining a collective experiment in open collaboration and fair recognition of value.
+Open Heart + Mind (OHM) is a community of researchers, artists, developers, and community leaders exploring new ways of living, working, and relating together. By participating in the OHM community ("cOHMunity") or using the Wisdom app, you are joining a collective experiment in open collaboration and fair recognition of value.
 
-This Covenant outlines our shared purpose, values, and expectations. By engaging with WisdOHM or contributing to OHM, you agree to uphold these principles.
+This Covenant outlines our shared purpose, values, and expectations. By engaging with Wisdom or contributing to OHM, you agree to uphold these principles.
 
 ## 2. Our Purpose
 We aim to co-create regenerative, participatory, and transparent systems that support the commons and empower communities to coordinate with care, integrity, and autonomy.
@@ -13,7 +13,7 @@ We aim to co-create regenerative, participatory, and transparent systems that su
 We envision a globally distributed network of autonomous communities, coordinating their efforts through open, composable valuation and governance mechanisms. These systems empower people to contribute freely and to be fairly recognized and rewarded for the value they bring to one another and to society.
 
 ## 4. Our Mission
-To realize this purpose, we are developing WisdOHM —- an open-source tool for decentralized valuation —- and contributing to the broader Metavaluation framework in collaboration with aligned communities around the world.
+To realize this purpose, we are developing Wisdom —- an open-source tool for decentralized valuation —- and contributing to the broader Metavaluation framework in collaboration with aligned communities around the world.
 
 These tools empower communities to record and assess diverse contributions, helping to recognize what matters, reward what supports the collective good, and build more transparent and inclusive systems of coordination.
 
@@ -45,8 +45,8 @@ We recognize that value comes in many forms, and we are working to honor them al
 
 Participation is always voluntary. We encourage you to contribute freely, without expectation of return—while trusting that our systems are evolving to recognise and reward contributions over time.
 
-## 7. Using WisdOHM
-WisdOHM is our open-source tool for recording and valuing contributions. Community members can:
+## 7. Using Wisdom
+Wisdom is our open-source tool for recording and valuing contributions. Community members can:
 - Nominate their own or others' contributions
 - Review contributions through pairwise comparisons
 - Earn recognition for their reviews and other contributions
@@ -84,10 +84,10 @@ All members of our community are expected to:
 - Give and receive feedback with care
 - Take responsibility for mistakes and seek to repair harm
 
-These expectations apply in all community spaces—online and offline—and extend to all uses of the WisdOHM platform. For behavioral standards, reporting procedures, and enforcement guidelines, please see our [Code of Conduct](link-to-code-of-conduct).
+These expectations apply in all community spaces—online and offline—and extend to all uses of the Wisdom platform. For behavioral standards, reporting procedures, and enforcement guidelines, please see our [Code of Conduct](link-to-code-of-conduct).
 
 ## 11. Agreement Clause
-By participating in OHM or using the WisdOHM platform, you agree to:
+By participating in OHM or using the Wisdom platform, you agree to:
 - Uphold this Covenant
 - Abide by our Code of Conduct and its enforcement mechanisms
 - Contribute in good faith and with care for others
@@ -100,7 +100,7 @@ Your participation signals a commitment to building a shared culture of fairness
 If you have questions, need support, or wish to report harm, please email admin[at]openheartmind.org
 
 ## 13. Revision and Stewardship
-This Covenant is a living document. We aim to provide reasonable notice of substantial changes when practical, but reserve the right to modify this document at any time without notice. Continued participation in OHM or use of WisdOHM after any modifications indicates your acceptance of the modified Covenant.
+This Covenant is a living document. We aim to provide reasonable notice of substantial changes when practical, but reserve the right to modify this document at any time without notice. Continued participation in OHM or use of Wisdom after any modifications indicates your acceptance of the modified Covenant.
 
 ---
 
