@@ -2,6 +2,36 @@
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## Lovefest Bellingen
+### Details of Offering:
+Community Value Mapping is a participatory workshop in collective gratitude and fair recognition. We’ll begin with a round of gratitude, inviting participants to reflect on moments from the weekend that touched them — acts of kindness, creative sparks, or behind-the-scenes care.
+
+Next, we’ll introduce a participatory framework designed to make gratitude tangible and help communities coordinate around what they value most. Using Lovefest as a living case study, we’ll guide participants in using our newly released, free app to nominate contributions, evaluate them together, and generate a collective Gratitude Map of the community’s efforts, offerings, and unseen support.
+
+We’ll close with a round of reflections and a shared vision: how this simple, flexible tool can support communities everywhere to share, care, and coordinate — in service of people, culture, and the planet.
+
+Please bring a smartphone if you can — but don’t worry if not, we’ll offer alternative ways to participate.
+
+### Artist/Stage/Group Name
+OHM Collective
+
+### SHORT Bio: Elevator pitch! Only the first 1-2 sentences will be used due to promo space.
+Dr Cooper Smout is a designer and neuroscientist exploring how we come together, share value, and shape culture. After a PhD on the neuroscience of consciousness, he founded Open Heart + Mind (OHM) — a volunteer collective weaving tools and gatherings to support connection, contribution, and the shift toward a gift-based future.
+
+### LONG Bio: Go nuts!
+Dr Cooper Smout is a designer and neuroscientist working at the intersection of art, science, and cultural change. After completing a PhD on the neuroscience of consciousness, he left academia to prototype new ways of valuing wisdom, creativity, and care.
+
+He is the founder of Open Heart & Mind (OHM) — a volunteer-run collective creating gatherings and tools that foster connection, empower contributors, and nurture a gift-based culture. His work blends systems thinking, participatory design, and radical research, drawing inspiration from movements like open science, permaculture, and Burning Man.
+
+A long-time advocate for environmental and cultural regeneration, Cooper’s journey has woven through architecture, meditation, psychology, and metaresearch — culminating in the creation of Metavaluation, an open-source framework for collective recognition, coordination, and care. For him, this work represents the merging of his two great loves — science and spirituality — into a shared practice of gratitude and global solidarity.
+
+### Technical Specifications: Please provide a description of your technical needs, such as microphones etc. Please also indicate if you require a headset mic, or if you will provide your own.
+Please provide floor space with cushions or other comfortable seating, so participants can gather in a circle. A handheld microphone would be useful if we’re expecting more than 20 people. A stable internet connection or mobile reception is required to access our web-based app. A whiteboard and pens would be useful, but I can also bring my own if not available. 
+
+### Other Equipment & Materials: Please describe any other equipment or materials that you would like to bring
+We will bring smartphones, a laptop, and a mobile hotspot as a backup for internet access. If not already available at the venue, we’ll also bring a whiteboard and markers for the explanation portion of the workshop.
+
+
 ## Gambling Community Benefit Fund
 
 ### What does your organisation do? (1000 characters max)
