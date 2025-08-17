@@ -2,6 +2,34 @@
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## Pranafest
+### Workshop name
+Collective Gratitude: From Practice to Action
+
+### Workshop Description or Presentation Offering
+Gratitude has been shown to improve wellbeing, deepen relationships, and build resilience — both individually and collectively. In this participatory workshop, we’ll introduce a simple, science-backed framework for making collective gratitude visible, helping communities align around what they value most.
+
+We’ll begin with a brief introduction to the psychology and neuroscience of gratitude, followed by a guided reflection — inviting you to pause, breathe, and share moments of nourishment, creativity, or unseen care that touched you during your time at Pranafest.
+
+Next, we’ll introduce Wisdom: a free, open-source app developed by the Open Heart & Mind (OHM) community to help groups recognise contributions and self-organise around shared values. Using Pranafest as a living case study, we’ll guide you through a playful, hands-on process where you can express gratitude for what mattered most — co-creating a Collective Gratitude Map of the people, gifts, and energies that supported the festival experience.
+
+We’ll close with a reflection round and a shared vision: how this system can help communities around the world coordinate with care — cultivating a more honest, inclusive, and regenerative society rooted in gifting and gratitude.
+
+Please bring a smartphone if you can — but don’t worry if not, we’ll offer inclusive ways to participate.
+
+### Short bio
+Dr Cooper Smout is a neuroscientist, systems designer, and founder of Open Heart & Mind — a community exploring gifting, collective care, and open-source tools for participatory governance. His work bridges science, spirit, and culture, using gratitude and recognition to help communities thrive from the ground up.
+
+### Pranafest is a creative wellness event which is focused on wholistic wellness. We align ourselves with facilitators & artists who are also living these practices. Can you please tell us why you would like to be apart of this event?
+I’ve attended two Pranafest gatherings and found them deeply nourishing — helping me slow down, reconnect with myself, and tap into creative flow. It would be an honour to return and give back to a community that has offered me so much.
+
+This offering draws from over 15 years of daily meditation and gratitude practice, including several Vipassana retreats, and my ongoing work with Open Heart & Mind — a community project weaving science (mind) and spirit (heart) to foster collective care, gifting culture, and systems that support thriving communities.
+
+We’ve prototyped and refined the Wisdom system at gift-based gatherings and open science conferences, and are now scaling it to help communities like Pranafest become more transparent, inclusive, and connected — both internally and with other aligned movements.
+
+I see Pranafest as a natural ally in this journey and would love to share what we’re creating with the team and broader community. That said, I understand this workshop may not fit the typical program, and would be happy to explore other synergies if not selected — such as a dedicated post-event session for crew to reflect, recognise, and celebrate the care that made it all possible.
+
+
 ## Lovefest Bellingen
 ### Details of Offering:
 Community Value Mapping is a participatory workshop in collective gratitude and fair recognition. We’ll begin with a round of gratitude, inviting participants to reflect on moments from the weekend that touched them — acts of kindness, creative sparks, or behind-the-scenes care.
