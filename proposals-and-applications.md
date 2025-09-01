@@ -2,6 +2,37 @@
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## AIMOS 2025
+### Lightning Talk
+Metavaluation: A Participatory Framework for Valuing Diverse Contributions
+
+Metavaluation is a participatory framework for recognising and rewarding the full range of contributions to scholarly and community-led pursuits. At its core is a simple but powerful protocol: self-referential pairwise comparisons that allow diverse stakeholders to evaluate ideas, actions, and resources in standardised, interoperable units—enabling communities to coordinate around shared values and goals.
+
+This lightning talk will introduce the Metavaluation framework and share key developments since our AIMOS 2024 presentation, including:
+	•	Validation at ZuGrama, a 6-week Web3 residency in India, where Metavaluation was used to align incentives and surface invisible work
+	•	Launch of a prototype app (Wisdom) that enables any community to apply the framework at scale in their own context
+	•	Real-world deployment at OHM Gathering 2025, a citizen-science experiment where all proposals were reviewed using Wisdom and participants invited based on the value they offered the collective—without gatekeepers, tickets, or transactions
+
+I’ll share data and insights from this process, and close with thoughts on how Metavaluation could support more inclusive and transparent coordination for future AIMOS conferences—plus an invitation to join our hackathon to explore the app and system in real time.
+
+### Hackathon
+Metavaluation in Practice: Valuing Diverse Contributions to AIMOS
+
+This hackathon invites participants to explore Metavaluation, a participatory framework for recognising and rewarding the full range of scholarly contributions. At its core is a simple but powerful protocol: self-referential pairwise comparisons that allow communities to value ideas, actions, and resources in standardised, interoperable units—enabling coordination around shared values and goals.
+
+Building on our AIMOS 2023 prototype, where we used Metavaluation to evaluate conference contributions, this session introduces Wisdom—a new app that makes the framework accessible to any community. Participants will join a live experiment using Wisdom to record, review, and recognise real contributions to AIMOS 2025—whether they be talks, organising work, mentorship, or behind-the-scenes support.
+
+Together, we’ll co-create a collective value map of AIMOS 2025 and demonstrate how this system could organise future events—from proposal selection to post-conference recognition and reward.
+
+The session will begin with a short orientation and walkthrough of the app, followed by hands-on engagement and discussion. Participants will leave with:
+	•	Practical insight into participatory, values-based evaluation
+	•	Recognition for their own contributions through the system
+	•	The opportunity to apply this model within their own projects or communities
+
+No technical experience required—just curiosity and a willingness to value what matters.
+
+
+
 ## Pranafest
 ### Workshop name
 Collective Gratitude: From Practice to Action
