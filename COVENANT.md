@@ -86,7 +86,14 @@ All members of our community are expected to:
 
 These expectations apply in all community spaces —— online and offline —— and extend to all uses of the Wisdom platform. For behavioral standards, reporting procedures, and enforcement guidelines, please see our [Code of Conduct](https://github.com/openheartmind/cOHMunity/blob/main/CODE_OF_CONDUCT.md).
 
-## 11. Agreement Clause
+## 11. Drug & Alcohol Policy
+OHM Gathering is a drug- and alcohol-free event. The use of drugs or alcohol is strictly prohibited in all shared spaces, including workshops, dancefloors, dining areas, campfires, open paddocks, the hot tub, and the swimming hole.
+
+Your personal campsite is your own space and will not be policed. However, we encourage all participants to honour the collective atmosphere by abstaining from drugs and alcohol throughout the Gathering, and instead explore the many healthier, community-supported pathways for connection and regulation.
+
+Anyone showing signs of intoxication or drug use in common spaces will be cautioned by community members and, in serious cases, asked to leave the event.
+
+## 12. Agreement Clause
 By participating in OHM or using the Wisdom platform, you agree to:
 - Uphold this Covenant
 - Abide by our [Code of Conduct](https://github.com/openheartmind/cOHMunity/blob/main/CODE_OF_CONDUCT.md) and its enforcement mechanisms
@@ -96,10 +103,10 @@ By participating in OHM or using the Wisdom platform, you agree to:
 
 Your participation signals a commitment to building a shared culture of fairness, inclusion, and mutual respect.
 
-## 12. Questions or Concerns?
+## 13. Questions or Concerns?
 If you have questions, need support, or wish to report harm, please email admin[at]openheartmind.org
 
-## 13. Revision and Stewardship
+## 14. Revision and Stewardship
 This Covenant is a living document. We aim to provide reasonable notice of substantial changes when practical, but reserve the right to modify this document at any time without notice. Continued participation in OHM or use of Wisdom after any modifications indicates your acceptance of the modified Covenant.
 
 ---
