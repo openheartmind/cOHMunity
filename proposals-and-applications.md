@@ -2,6 +2,14 @@
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## AlterCOP30
+
+### Bio
+Dr Cooper Smout is a designer, neuroscientist, and activist working at the intersection of art, science, and cultural change. After completing a PhD on the Neuroscience of Consciousness, he left academia to found Open Heart & Mind (OHM), a volunteer-led collective empowering communities to self-organise around shared values.
+
+He leads the design and research of Metavaluation, an open-source framework for collective recognition, reward, and coordination. Cooper’s work combines systems thinking, participatory design, and citizen science, drawing on inspiration from Open Science and Burning Man to create practical pathways toward a gratitude-powered gift economy.
+
+
 ## AIMOS 2025
 ### Lightning Talk
 Metavaluation: A Participatory Framework for Valuing Diverse Contributions
