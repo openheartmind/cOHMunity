@@ -6,17 +6,17 @@ The Open Heart & Mind (OHM) Community makes all of their materials and data publ
 
 ## Documents and data
 ### Clickup workspace
-Documents and data in our Clickup workspace are made available under the Creative Commons Attribution license. Clickup is a proprietary app that collects and stores the personal information you provide when you join the workspace. See here for Clickup's privacy policy.
+Clickup is a third party app that OHM is using to prototype our systems. Documents and data in our Clickup workspace are made available under the Creative Commons Attribution license. Clickup collects and stores the personal information you provide when you join the workspace —— see [here](https://clickup.com/terms/privacy) for Clickup's privacy policy.
 
 Clickup also stores information you or others in the workspace add to it, such as tasks and documents you may be tagged in. From time to time, we may share some of this data publicly, for example by sharing 'public links' to documents (like this one). Public links may expose your Clickup username. For this reason, we suggest using a pseudonym as your Clickup username if you do not wish your name to be displayed publicly.
 
 ### Wisdom app and prototypes
 Documents and data in the Wisdom app and prototypes (Google Sheets) are made available under the Creative Commons Attribution license (see below). Wisdom collects and stores data that you provide us, such as offerings, contributions and reviews. From time to time, we may share some of this data publicly (e.g., to our Github repository) for research and analysis purposes. When we share data, your Wisdom username will be attached to your offerings and contributions. For this reason, we suggest using a pseudonym as your Wisdom username if you are at all concerned about this information being associated with you. 
 
-Wisdom also stores personal information you create an account —— see below for how we manage your personal information.
+Wisdom also collects and stores personal information you create an account —— see below for how we manage your personal information.
 
 ### Creative Commons Attribution license
-The following is a human-readable summary of (and not a substitute for) the full legal text of the [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
+The following is a human-readable summary of (and not a substitute for) the [full legal text of the CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 You are free:
 - to Share---copy and redistribute the material in any medium or format
