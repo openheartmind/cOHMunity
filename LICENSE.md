@@ -1,4 +1,6 @@
-The Open Heart & Mind (OHM) Community makes all of their materials and data publicly available under open source licenses.
+# OHM License
+
+The Open Heart & Mind (OHM) Community makes all of our materials and data publicly available under open source licenses.
 
 - Documents and non-personal data are made available under a CC-BY license.
 - Software are made available under an MIT license. 
