@@ -1,4 +1,4 @@
-# Code of Conduct
+# OHM Code of Conduct
 
 ## Our Pledge
 
