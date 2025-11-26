@@ -13,9 +13,7 @@ We aim to co-create regenerative, participatory, and transparent systems that su
 We envision a globally distributed network of autonomous communities, coordinating their efforts through open, composable valuation and governance mechanisms. These systems empower people to contribute freely and to be fairly recognized and rewarded for the value they bring to one another and to society.
 
 ## 4. Our Mission
-To realize this purpose, we are developing Wisdom —- a free, open-source tool for decentralized recognition and reward —- and Metavaluation, a circular framework for participatory community governance. 
-
-These tools empower communities to record and assess diverse contributions, helping to recognize what matters, reward contributions toward the common good, and build more transparent and inclusive systems of coordination.
+We're developing a participatory governance framework (Metavaluation) and socio-technological system (Wisdom) that helps communities recognise contributions, reward contributors, and coordinate action at scale. We're prototyping these ideas through diverse community gatherings that we organise ourselves (OHM Gatherings), and through collaborations with aligned communities to validate across sectors. 
 
 ## 5. Our Values
 OHM is inspired by the Open Science, Burning Man and Permaculture movements. In May 2025, we ran a "value mapping" experiment to prioritise values with respect to our collective mission (read more on this experiment [here](https://github.com/openheartmind/cOHMunity/wiki/Values)). The top 10 values identified were:
