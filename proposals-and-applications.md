@@ -2,6 +2,26 @@
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## Lovefest Gold Coast
+
+### Name of Offering (Please provide the NAME of your offering as it should appear in promotions)
+Seeding a Culture of Shared Value
+
+### Details of Offering (Please provide a short description of your offering as it should appear in promotions)
+Join us for a hands-on workshop exploring new ways to recognise and celebrate value in community. We’ll introduce our participatory governance framework and evidence from community pilots, then use our new app to bring it to life by mapping gratitude for Lovefest contributions. You’ll leave with practical tools for your own projects and a vision for growing these ideas into a values-led gift economy that prioritises people and planet over profit.
+
+### SHORT Bio (Elevator pitch! Only the first 1-2 sentences will be used due to promo space)
+Dr Cooper Smout brings a background in design, neuroscience, and community activism to the challenge of cultural change. He founded Open Heart & Mind (OHM), where he prototypes open, participatory systems through diverse gatherings and community experiments.
+
+### LONG Bio (Go nuts!)
+Dr Cooper Smout is a designer and researcher working at the intersection of art, science, and cultural change. After completing degrees in architecture, psychology, and a PhD on the Neuroscience of Consciousness, he left academia to prototype alternative models for societal transformation.
+
+He founded Free Our Knowledge, a collective action platform for open researchers, and spent several years campaigning for cultural reform in academia. He then founded Open Heart & Mind (OHM) to prototype his more radical ideas in the safe space of community gatherings.
+
+His work blends open science, participatory design, and systems thinking to address the question: how can we accelerate the adoption of alternative systems that empower people who give selflessly to their communities, culture, and the planet?
+
+
+
 ## AlterCOP30
 
 ### Bio
