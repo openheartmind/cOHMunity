@@ -8,7 +8,7 @@ Use this document to collect formal written content, such as conference proposal
 Seeding a Culture of Shared Value
 
 ### Details of Offering (Please provide a short description of your offering as it should appear in promotions)
-Join us for a hands-on workshop exploring new ways to recognise and celebrate value in community. We’ll introduce our participatory governance framework and evidence from community pilots, then use our new app to bring it to life by mapping gratitude for Lovefest contributions. You’ll leave with practical tools for your own projects and a vision for growing these ideas into a values-led gift economy that prioritises people and planet over profit.
+In this hands-on workshop we’ll explore new ways for communities to recognise, reward, and coordinate value toward shared aims. We’ll introduce an innovative community governance model, share learnings from our community trials, and use our free, participatory app to generate a Gratitude Map of Lovefest contributions. You’ll leave with new ideas and tools for coordinating your own projects, along with an actionable roadmap to help grow a new culture of collective care for people, place, and the planet.
 
 ### SHORT Bio (Elevator pitch! Only the first 1-2 sentences will be used due to promo space)
 Dr Cooper Smout brings a background in design, neuroscience, and community activism to the challenge of cultural change. He founded Open Heart & Mind (OHM), where he prototypes open, participatory systems through diverse gatherings and community experiments.
