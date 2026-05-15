@@ -2,6 +2,79 @@
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
 
+## RSAA26 / RSAfrica26
+
+### Presentation 
+Meta-valuation: A Self-Referential Mechanism for Valuing Diverse Research Contributions
+
+Research communities face a structural challenge: existing recognition systems reward outputs over process, fail to recognise diverse contribution types — including research software — and create misaligned incentives that undermine the very collaboration they depend on. Meta-valuation is a self-referential mechanism designed to address this, placing the full scope of contributions — including evaluations themselves — on a common scale, so that research software and other undervalued contributions can be given fair recognition and reward.
+
+In this talk, I'll introduce the mechanism and present findings from recent experiments, including a live pilot at RSAA25 — where participants valued diverse conference contributions in real-time — and a more recent deployment at OHM Gathering 2025, where the mechanism coordinated and recognised contributions across a three-day in-person event. Collectively, these experiments demonstrate the mechanism's capacity to value diverse contribution types — labour, capital, and ideas — and break down barriers between regions, institutions, disciplines, and communities, while remaining accessible to the diverse stakeholders who use it. I’ll also preview a next-generation valuation model inspired by these experiments, building on observed data patterns to improve value prediction while reducing reviewer burden — a critical barrier to broader adoption.
+
+Next, I'll present theory on how the mechanism can address collective action problems in academia, helping communities transition to a more equitable, sustainable, and community-led research ecosystem. Communities who adopt the same, interoperable value dimensions can both coordinate activity and recognise the same contribution across contexts, creating a structural incentive for contributors to make their outputs openly available: sharing becomes the locally rational choice because it enables more recognition across contexts. Furthermore, the mechanism can recognise its own implementation and development, seeding a virtuous cycle of continuous improvement in which the valuation process becomes progressively more efficient. Together, these properties suggest that Open Science principles — such as openness, reliability, and replicability — may emerge naturally from the mechanism architecture alone, without need for external coercion. Rather, Open Science becomes the rational choice: as the most valuable form of contribution, it gets recognised and rewarded accordingly, aligning individual incentives with the common good.
+
+#### Learning Objectives
+- An understanding of how existing recognition systems fall short, and how meta-valuation addresses these limitations
+- Insights from real-world applications demonstrating the mechanism's adaptability across diverse contexts, contribution types, actors, and values
+- How the mechanism interoperability creates structural incentives for Open Science behaviours without enforcing cultural change
+- How a self-referential, self-improving system can seed a virtuous cycle of continuous improvement across aligned research communities
+
+#### Inclusivity of speaker(s)
+Cooper is an early-career independent researcher operating outside traditional academic institutions as Director of a registered nonprofit charity — bridging research, software development, and community implementation in ways that don't fit conventional RSE or academic career paths.
+
+The presentation is designed to be accessible to a broad audience. No prior knowledge of evaluation mechanisms, statistics, or open science is required — the core ideas are introduced from first principles and illustrated through real-world experiments. The talk is as relevant to community organisers and research support staff as it is to software engineers or academic researchers.
+
+The content directly addresses a barrier that disproportionately affects early-career researchers and those from underrepresented groups: existing recognition systems reward a narrow set of outputs while rendering invisible the diverse contributions that actually sustain research communities — including research software and infrastructure. The talk presents both an empirical demonstration and a theoretical argument for why this need not be the case, offering an actionable vision that is directly relevant to anyone whose contributions go unrecognised by current systems.
+
+Finally, the broader vision presented — in which Open Science principles emerge as structural rather than cultural outcomes — reframes diversity and inclusion not as values requiring individual attitude change, but as natural consequences of a well-designed recognition architecture. This framing may be particularly useful for early-career RSEs navigating incentive structures that don't yet reflect the full value of their work.
+
+### Workshop
+
+Meta-valuation Across Borders: A Cross-Community Experiment in Valuing Diverse Research Contributions 
+
+In this workshop we'll explore meta-valuation, a novel mechanism for valuing diverse research contributions, and provide a proof-of-concept for its capacity to foster coordination and incentivise cross-border collaboration through interoperable value metrics. Its key innovation is a self-referential evaluation process, in which any contribution — including evaluations themselves — can be valued in relative terms, placing diverse research contributions on a common scale and aligning incentives toward the common good.
+
+At RSAA25, we conducted a live pilot test that produced relative valuations for diverse conference contributions in real-time, spanning presentations, financial sponsorship, facilitation, and behind-the-scenes efforts. Since then, a full deployment at OHM Gathering 2025 demonstrated the mechanism's capacity to coordinate and recognise contributions across a multi-day community event. Together, these experiments demonstrate in principle that the same mechanism can value all forms of contribution — labour, capital, and ideas — through interoperable metrics tied to collective values. We now aim to take the next step: demonstrating interoperability in practice across a pair of workshops at RSAA26 and RSAfrica26.
+
+Each workshop will begin with a brief introduction to the mechanism and key findings. Participants will then nominate and approve contributions for review via a web-app interface, before collectively valuing contributions using a simple pairwise choice between randomly assigned contributions. The app will aggregate these votes into a relative value for each contribution and a total for each contributor. Crucially, both workshops will include local contributions — such as presentations — and global contributions — such as the common website infrastructure — enabling comparison and exploration of the mechanism's interoperability across contexts. This will demonstrate a key property not yet evidenced: that recognition metrics can accumulate across communities who adopt the same evaluation dimensions, incentivising contributors to make their outputs openly available.
+
+We'll close by celebrating the key contributors our data suggests made each conference happen, and reflecting on the process and results. Following both workshops, we will compare datasets, analyse findings, and aim to publish as a proof of concept for cross-community interoperability, with credit given to all contributors through the same mechanism explored within.
+
+#### Flexible Presentation Format
+Interactive workshop and participatory experiment
+
+#### Flexible Presentation Length
+90 minutes preferred; can be adjusted if needed.
+
+#### Learning Objectives
+- How the meta-valuation mechanism works in theory and in practice
+- Hands-on experience using the meta-valuation mechanism to collectively value real conference contributions
+- How the same process could be used to value any set of contributions, spanning diverse communities, projects, and contexts
+- How common evaluation dimensions enable recognition to accumulate across communities, creating structural incentives for openness and sharing
+- Recognition for participating in a novel experiment to advance understanding of the meta-valuation mechanism
+
+#### Inclusivity of speaker(s)
+Cooper is an early-career independent researcher operating outside traditional academic institutions as director of a registered nonprofit charity — bridging research, software development, and community implementation in ways that don't fit conventional RSE or academic career paths. 
+
+The workshop itself is designed around inclusivity. The pairwise evaluation process requires no technical background — any participant can contribute meaningful data simply by expressing a preference between two contributions. Participation is itself recognised and rewarded through the same mechanism, lowering barriers to engagement and ensuring that even brief involvement generates a record of contribution.
+
+The cross-conference design — running simultaneously at RSAA26 and RSAfrica26 — actively bridges two regional research software communities, with shared global contributions enabling recognition to flow across borders. The mechanism being demonstrated is itself designed to surface and fairly recognise behind-the-scenes, administrative, and community-facing contributions that existing systems routinely overlook — the very contributions disproportionately made by those from underrepresented groups in research.
+
+
+#### Links to Presenter Profile(s) or Social Media Page(s)
+https://www.linkedin.com/in/cooper-smout-623137193/
+https://openheartmind.org/
+https://coopersmout.github.io/
+
+RSAA25 Prototype:
+https://wisdom.openheartmind.org/join-instance/eyJpbnN0YW5jZV9pZCI6NTMsImludml0ZXJfaWQiOjIwLCJleHBpcmVzX2F0IjoxNzgwMDQzODM1LCJub25jZSI6Ik14cWZwaFp1U0hpMDFKMjYifQ==.4de54430dd9e552f3c779865d9168f674d6ee69e72057e188dffa7afc4621721
+
+
+#### Bio
+Dr. Cooper Smout is a designer, neuroscientist, and open science entrepreneur working at the intersection of collective intelligence, participatory governance, and cultural change. With a background in architecture and a PhD in the neuroscience of consciousness, he left academia to found Free Our Knowledge, a collective action platform for open research, and Open Heart & Mind (OHM), a nonprofit organisation developing open-source tools to empower communities. His current work focuses on meta-valuation, a participatory evaluation framework that generates transparent, interoperable value metrics to support fair recognition and reward, decentralised coordination, and collective governance across research and commons-oriented ecosystems.
+
+
+
 ## Lovefest Gold Coast
 
 ### Name of Offering (Please provide the NAME of your offering as it should appear in promotions)
