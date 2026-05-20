@@ -32,19 +32,28 @@ Finally, the broader vision presented — in which Open Science principles emerg
 
 Meta-valuation Across Borders: A Cross-Community Experiment in Valuing Diverse Research Contributions 
 
-In this workshop we'll explore meta-valuation, a novel mechanism for valuing diverse research contributions, and provide a proof-of-concept for its capacity to foster coordination and incentivise cross-border collaboration through interoperable value metrics. Its key innovation is a self-referential evaluation process, in which any contribution — including evaluations themselves — can be valued in relative terms, placing diverse research contributions on a common scale and aligning incentives toward the common good.
+In this workshop we'll explore meta-valuation, a novel mechanism for valuing diverse research contributions, and provide a proof-of-concept for its capacity to incentivise cross-border coordination through interoperable value metrics. Its key innovation is a self-referential evaluation process, in which any contribution — including evaluations themselves — can be valued in relative terms, placing diverse research contributions on a common scale and aligning incentives toward the common good.
 
-At RSAA25, we conducted a live pilot test that produced relative valuations for diverse conference contributions in real-time, spanning presentations, financial sponsorship, facilitation, and behind-the-scenes efforts. Since then, a full deployment at OHM Gathering 2025 demonstrated the mechanism's capacity to coordinate and recognise contributions across a multi-day community event. Together, these experiments demonstrate in principle that the same mechanism can value all forms of contribution — labour, capital, and ideas — through interoperable metrics tied to collective values. We now aim to take the next step: demonstrating interoperability in practice across a pair of workshops at RSAA26 and RSAfrica26.
+At RSAA25, we conducted a live pilot test that produced relative valuations for diverse conference contributions in real-time, spanning presentations, financial sponsorship, facilitation, and behind-the-scenes efforts. Since then, a full deployment at OHM Gathering 2025 demonstrated the mechanism's capacity to coordinate and recognise contributions across a multi-day community event. Together, these experiments demonstrate in principle that the same mechanism can value all forms of contribution — labour, capital, and ideas — through interoperable metrics tied to collective values. We now aim to take the next step: demonstrating interoperability in practice across a series of workshops at RSAA26, RSAfrica26, and RSLA26.
 
-Each workshop will begin with a brief introduction to the mechanism and key findings. Participants will then nominate and approve contributions for review via a web-app interface, before collectively valuing contributions using a simple pairwise choice between randomly assigned contributions. The app will aggregate these votes into a relative value for each contribution and a total for each contributor. Crucially, both workshops will include local contributions — such as presentations — and global contributions — such as the common website infrastructure — enabling comparison and exploration of the mechanism's interoperability across contexts. This will demonstrate a key property not yet evidenced: that recognition metrics can accumulate across communities who adopt the same evaluation dimensions, incentivising contributors to make their outputs openly available.
+Each workshop will begin with a brief introduction to the mechanism and key findings. Next, we'll use our prototype web-app to nominate and approve contributions for review, then value them together using a simple pairwise choice between randomly assigned contributions. The app will aggregate these votes into a relative value score for each contribution and a total for each contributor. Crucially, each workshop will include local contributions — such as presentations — and global contributions — such as the common website infrastructure — enabling comparison and exploration of the mechanism's interoperability across contexts. This will demonstrate a key property of the mechanism: that recognition metrics can accumulate across communities who adopt the same evaluation dimensions, incentivising contributors to make their outputs openly available.
 
-We'll close by celebrating the key contributors our data suggests made each conference happen, and reflecting on the process and results. Following both workshops, we will compare datasets, analyse findings, and aim to publish as a proof of concept for cross-community interoperability, with credit given to all contributors through the same mechanism explored within.
+We'll close by celebrating the key contributors who made each conference happen, and reflecting on the process and results. Following both workshops, we will compare datasets, analyse findings, and aim to publish as a proof of concept for cross-community interoperability, with credit given to all contributors through the same mechanism explored within.
+
+#### Subject Areas
+Primary: Research Software Without Borders
+Secondary: 
+Community and Collaboration
+Data Platforms and Data Spaces
+Equity, Access and Knowledge
+Reproducibility, FAIR and Open Research
+Sustainability and Impact
 
 #### Flexible Presentation Format
 Interactive workshop and participatory experiment
 
 #### Flexible Presentation Length
-90 minutes preferred; can be adjusted if needed.
+60-90 minutes (90 preferred; can be adjusted if needed).
 
 #### Learning Objectives
 - How the meta-valuation mechanism works in theory and in practice
