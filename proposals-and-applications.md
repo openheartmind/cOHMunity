@@ -1,6 +1,19 @@
 # Content Record
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
+## AIMOS 2026
+
+### Lightning talk
+Meta-Valuation: From Recognition to Reward and Reputation
+
+Meta-valuation is a participatory framework for recognising and rewarding diverse contributions to research and other community-led pursuits, using pairwise comparisons as both an evaluation mechanism and a baseline unit of community-defined value. 
+
+This talk shares updates since our AIMOS 2024 presentation, in which we shared results from a pilot recognising diverse contributions to AIMOS 2023. Since then, OHM (Open Heart & Mind) released a prototype web-app and used it to coordinate and value a 110-person community gathering, across two distinct phases: first, reviewing offerings and inviting participants; second, recognising over 500 contributions and distributing proceeds back to the community proportionate to value provided. 
+
+In parallel, we ran a series of prototypes across communities spanning the arts, permaculture, and research sectors, including a 2025 pilot at the Research Software Asia-Australia conference (RSAA). We extended this pilot in 2026 across two live workshops spanning RSAA and Research Software Africa, demonstrating how recognition can stack across time and geographical regions, while incentivising open research practices through cumulative reputation scores that align individual incentives with the collective mission. 
+
+The talk closes with a brief look at our latest models using Bayesian estimation to predict contribution value from aggregated data, and next steps for the project.
+
 
 ## RSAA26 / RSAfrica26
 
