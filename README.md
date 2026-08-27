@@ -22,7 +22,7 @@ In addition to fixed-duration events, WisdOHM could also be used to evaluate dyn
 ### Prototype
 We've released a [working prototype](https://wisdom.openheartmind.org/) of the WisdOHM system, which allows any community to record, review, and recognise a set of contributions with respect to their mission and values. This version was based on our [collective designs and discussions](https://github.com/openheartmind/cOHMunity/wiki/Design-artifacts), and spearheaded by [Claymost](https://github.com/claymost) to enable rapid data collection. At OHM, we're using the app to value past contributions, and to process applications to our OHM Gathering 2025 (November, Gold Coast Hinterland). The process and app are designed to be generalisable, however, and so we'd love to hear from any other communities who find it useful.
 
-### Minimum Viable Product
+### Minimum Viable Product —— paused for re-design
 Our main focus is on developing a minimal viable product (MVP), which will focus on the first three stages of the [broader framework](https://github.com/openheartmind/cOHMunity/wiki/Metavaluation) (Record, Review, Recognise) and will allow any community to create their own instance and populate it with relevant contributions. It's designed to serve our most proven use case: recognising contributions to in-person gatherings, whether they be community arts festivals or research conferences —— but could also be extended to many other use cases. The MVP will be similar in design to the prototype, but open source, more secure and reliable, and built collaboratively through the generous contributions of our international developer team. It will feature the following components:
 
 - Well established data model we can use as a basis for any future data analysis.
