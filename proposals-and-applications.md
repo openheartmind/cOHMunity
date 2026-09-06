@@ -1,6 +1,19 @@
 # Content Record
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
+## Citizen COP
+
+Reciprocal Gifting for Regenerative Communities
+
+Regenerative communities often struggle with two related problems: recognising the diverse contributions that sustain their mission, and coordinating across borders rather than operating in isolation.
+
+Both problems could be addressed with an adaptable system that can recognise value across all forms of contribution. With such a system, we could recognise and reward contributors, supporting reciprocal relationships between individuals and the collective, while enabling coordination across communities through shared value metrics.
+
+In this webinar, we'll share four years of community experiments at OHM to bring such a system into the world. We'll introduce our free web-app, and show how we used it at OHM Gathering 2025 to value and coordinate an entire community's worth of contributions, then pay people commensurate to the value they created.
+
+We're excited to share this work with you, and hope you can join us for an evening of connection, critical thinking, questions and discussion. 
+
+
 ## AIMOS 2026
 
 ### Lightning talk
