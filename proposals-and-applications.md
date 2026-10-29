@@ -3,6 +3,7 @@ Use this document to collect formal written content, such as conference proposal
 
 ## Citizen COP
 
+### Submitted Version
 Reciprocal Gifting for Regenerative Communities
 
 Regenerative communities often struggle with two related problems: recognising the diverse contributions that sustain their mission, and coordinating across borders rather than operating in isolation.
@@ -12,6 +13,19 @@ Both problems could be addressed with an adaptable system that can recognise val
 In this webinar, we'll share four years of community experiments at OHM to bring such a system into the world. We'll introduce our free web-app, and show how we used it at OHM Gathering 2025 to value and coordinate an entire community's worth of contributions, then pay people commensurate to the value they created.
 
 We're excited to share this work with you, and hope you can join us for an evening of connection, critical thinking, questions and discussion. 
+
+### Organiser edited version
+Building Regenerative Communities Through Reciprocal Gifting
+
+Regenerative communities rely on many different forms of contribution — from organising and facilitation to creativity, care and practical support. Yet recognising this diversity and coordinating across communities can be challenging, often leaving valuable contributions invisible and communities working in isolation.
+
+What if we had a flexible way to recognise, value and reciprocate all forms of contribution?
+
+In this webinar, we’ll share four years of community experiments at OHM exploring how such a system could work in practice. We’ll introduce our free web app and show how we used it at OHM Gathering 2025 to recognise and coordinate a community’s diverse contributions, and then reciprocate that value by gifting back to people in proportion to the value they created.
+
+Come and explore reciprocal gifting in practice, and join an open conversation about how we might build more connected, collaborative and regenerative communities.
+
+All open hearts and curious minds are welcome for an evening of connection, learning and discussion.
 
 
 ## AIMOS 2026
