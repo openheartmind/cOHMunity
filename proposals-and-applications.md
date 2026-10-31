@@ -1,6 +1,37 @@
 # Content Record
 Use this document to collect formal written content, such as conference proposals, grant applications, etc. (informal introductions and requests for support should go [here](introductions.md) instead). Place newer contributions at the top, using two hashes to create a new title (## Example title), and three or four hashes to create subheadings where needed (### Example subheading). You can link websites by selecting the relevant text and pasting.
 
+## Return to the Village Festival
+
+### Interactive Presentation
+
+Beyond the Village: New Ways to Recognise and Coordinate Contributions to the Common Good
+
+How do we coordinate our contributions towards a thriving future, particularly when the things that matter most to our communities aren’t always reflected in dollar values?
+
+At Open Heart & Mind (OHM), we’re exploring new ways for communities to share, care and coordinate. For the past five years, we’ve been organising community-led gatherings, experimenting with new ways to recognise contributions and reciprocate value, and building free, open-source tools to help communities coordinate towards the common good.
+
+In this presentation, I’ll introduce our vision for an interconnected network of autonomous villages coordinating their efforts to care for each other and the environment through shared digital infrastructure. I’ll share our practical pathway towards bringing this vision to life, focusing on a unique mechanism we’ve developed that enables communities to recognise diverse forms of contribution in standardised units tied to their mission or shared values.
+
+I’ll then introduce Wisdom, a web app we’ve built to implement this mechanism, and invite members of the audience to participate in a live demonstration, recognising diverse contributions to the Return to the Village Festival. This will illustrate how the same underlying mechanism can be adapted to different communities, each with their own contribution types and shared values.
+
+Next, we’ll explore how this mechanism can act as a building block — or seed — from which a wide range of community functions can grow. I’ll illustrate this with examples from previous OHM Gatherings, where we’ve used Wisdom to coordinate and recognise contributions, reciprocate value through access to shared resources and financial payments, build contributor reputation profiles, and weight collective votes according to the value people have brought to the community.
+
+I’ll close by exploring what this approach could make possible if adopted and adapted by communities around the world, and inviting the audience to help shape what comes next — whether by experimenting with the system in their own communities, contributing to its development, or joining us at an upcoming OHM Gathering.
+
+### Bio
+
+Dr Cooper Smout is a designer, neuroscientist and systems researcher driven by a longstanding commitment to the environment and societal reform. Originally trained as an architect, his path shifted when he discovered meditation and went on to complete a degree in psychology and a PhD in the Neuroscience of Consciousness.
+
+Recognising deep flaws in academic research systems, he joined the Open Science movement and founded Free Our Knowledge, a collective action platform for open research practices. At the end of his PhD, he turned down his former dream job as a meditation neuroscientist to pursue a new dream: a global information revolution.
+
+He subsequently left academia to found Open Heart & Mind (OHM), where he organises community gatherings and researches new ways to share, care and coordinate. Through this work, he developed a novel mechanism with the potential to support a distributed collective intelligence system across diverse communities. He now focuses on exploring its implications through open research and developing tools that others can learn from and adopt.
+
+### Link
+
+https://youtube.com/playlist?list=PL1ImihGIzVU7POIQ7ab_YxDqSCaDdD5th&si=DqS1U6yqbxVms8E3
+
+
 ## Citizen COP
 
 ### Submitted Version
